@@ -9,6 +9,7 @@
 - HTML
 - CSS
 - JavaScript
+- SQL
 
 🚀 My journey involves turning ideas into innovative and efficient solutions, utilizing a strong foundation in computer science and a keen eye for front-end and back-end development.
 
